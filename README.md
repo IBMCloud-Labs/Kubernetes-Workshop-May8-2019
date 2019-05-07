@@ -4,6 +4,8 @@
 
 [Prerequisites](https://github.com/IBMCloud-Labs/KubernetesWorkshopPrerequisites) to be completed before Lab 0. 
 
+1. Provision your cluster by completing steps 1 to 3 **only** [here](https://github.com/IBMCloud-Labs/kube101/tree/master/workshop/Lab1)
+
 1. [Intro to Containers Presentation](https://ibm.ent.box.com/file/453163983333) - 25 minutes
 2. [Intro to Kubernetes Presentation](https://ibm.ent.box.com/file/453177852734) - 35 minutes 
 3. Q and A session - 10 minutes 
