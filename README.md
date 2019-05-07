@@ -11,3 +11,5 @@
 7. **Extra Lab**: If you are finished all 3 labs, you can go ahead and complete this [Docker Container tutorial](https://www.katacoda.com/courses/docker/playground)
 7. Q & A session - 10 minutes
 8. Extra: Istio presentation if there is additional time 
+
+
