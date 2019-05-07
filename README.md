@@ -2,7 +2,7 @@
 
 ## Agenda 
 
-[Prerequisites](https://github.com/IBMCloud-Labs/KubernetesWorkshopPrerequisites)
+#[Prerequisites](https://github.com/IBMCloud-Labs/KubernetesWorkshopPrerequisites)
 
 1. [Intro to Containers Presentation](https://ibm.ent.box.com/file/453163983333) - 25 minutes
 2. [Intro to Kubernetes Presentation](https://ibm.ent.box.com/file/453177852734) - 35 minutes 
