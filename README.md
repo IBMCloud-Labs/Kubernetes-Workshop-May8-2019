@@ -16,4 +16,6 @@
 7. Q & A session - 10 minutes
 8. Extra: Istio presentation if there is additional time 
 
+* How to add promo code: https://cognitiveclass.ai/applying-ibm-cloud-promo-code/
+
 
